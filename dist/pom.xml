@@ -71,7 +71,6 @@
 				<!-- only perform a release to this module -->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-release-plugin</artifactId>
-				<!-- <version>2.5.3</version> -->
 				<!-- <configuration>
 					<updateDependencies>false</updateDependencies>
 					<updateWorkingCopyVersions>true</updateWorkingCopyVersions>
