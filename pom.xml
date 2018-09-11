@@ -3,7 +3,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>multi-module-parent</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>multi-module</name>
@@ -30,7 +30,7 @@
   
   <scm>
 	<developerConnection>scm:git:git@github.com:kana1/maven-multimodule-demo.git</developerConnection>
-    <tag>v1.0.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
 	<distributionManagement>
