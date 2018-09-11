@@ -48,6 +48,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-assembly-plugin</artifactId>
+				<version>3.1.0</version>
 				<executions>
 					<execution>
 						<id>package-all</id>
@@ -69,7 +70,7 @@
 				<!-- only perform a release to this module -->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-release-plugin</artifactId>
-				<version>2.5.3</version>
+				<!-- <version>2.5.3</version> -->
 				<!-- <configuration>
 					<updateDependencies>false</updateDependencies>
 					<updateWorkingCopyVersions>true</updateWorkingCopyVersions>
