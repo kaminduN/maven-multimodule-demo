@@ -61,6 +61,7 @@
 							<descriptors>
 								<descriptor>src/main/assembly/all-jar.xml</descriptor>
 							</descriptors>
+							<appendAssemblyId>false</appendAssemblyId>
 						</configuration>
 					</execution>
 				</executions>
